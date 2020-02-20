@@ -1,6 +1,8 @@
-**Disclaimer:** This is a fork of [node_pcap](https://github.com/node-pcap/node_pcap), which implements support for Node v12+,
+**Disclaimer:** ~~This is a fork of [node_pcap](https://github.com/node-pcap/node_pcap), which implements support for Node v12+,
 fixes on dissectors (TCP, Radiotap) and support for `snap_length`, among others. It's
-intended to be kept maintained.
+intended to be kept maintained.~~ These changes have been incorporated into
+the new major version (v3) of the original `pcap` package; this fork is
+currently deprecated.
 
 ---
 

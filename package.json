@@ -1,6 +1,6 @@
 {
   "name": "pcap3",
-  "version": "3.2.0",
+  "version": "3.2.0-deprecated",
   "description": "raw packet capture, decoding, and analysis",
   "author": "Matt Ranney <mjr@ranney.com>",
   "maintainers": [
